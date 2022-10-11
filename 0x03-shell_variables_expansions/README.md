@@ -3,3 +3,4 @@
 - 2-path; adds /action to PATH
 - 3-path; counts total directory
 - 4-global variable, prints global variable
+- 5-local_variable, prints local/environment variable and function
