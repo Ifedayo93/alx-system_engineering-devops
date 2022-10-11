@@ -6,4 +6,5 @@
 - 5-local_variable; prints local/environment variable and function
 - 6-create_local_variable; new variable
 - 7-global variable; new global
-- 8-true_knowledge; addition
+- 8-true_knowledge; addition of variable
+- 9-divide_and_rule; division of variable
