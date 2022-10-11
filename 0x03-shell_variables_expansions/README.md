@@ -1,2 +1,3 @@
 - 0-alias; creates alias
-- 1-hello_you; display 'helloo user'
+- 1-hello_you; display 'hello user'
+- 2-path; adds /action to PATH
