@@ -2,5 +2,6 @@
 - 1-hello_you; display 'hello user'
 - 2-path; adds /action to PATH
 - 3-path; counts total directory
-- 4-global variable, prints global variable
-- 5-local_variable, prints local/environment variable and function
+- 4-global variable; prints global variable
+- 5-local_variable; prints local/environment variable and function
+- 6-create_local_variable; new variable
