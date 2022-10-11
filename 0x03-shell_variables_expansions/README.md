@@ -5,3 +5,4 @@
 - 4-global variable; prints global variable
 - 5-local_variable; prints local/environment variable and function
 - 6-create_local_variable; new variable
+- 7-global variable; new global
