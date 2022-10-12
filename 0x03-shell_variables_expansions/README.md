@@ -12,4 +12,5 @@
 - 11-binary_to_decimal; converts from base 2 to base 10
 - 12-Combinations; combine 2 letters
 - 13-print float; prints number with 2 decimal place
+- 14-Decimal to hexadecimal; converts a number from base 10 t0 16
 
