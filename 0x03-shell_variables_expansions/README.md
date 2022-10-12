@@ -13,4 +13,5 @@
 - 12-Combinations; combine 2 letters
 - 13-print float; prints number with 2 decimal place
 - 14-Decimal to hexadecimal; converts a number from base 10 t0 16
+- 15-101-rot13; encode text using rot13
 
