@@ -11,4 +11,5 @@
 - 10-love_exponent_breath; exponential
 - 11-binary_to_decimal; converts from base 2 to base 10
 - 12-Combinations; combine 2 letters
+- 13-print float; prints number with 2 decimal place
 
